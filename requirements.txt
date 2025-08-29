@@ -1,0 +1,4 @@
+Needed libraries
+-discord.py
+-python-dotenv
+-requests
