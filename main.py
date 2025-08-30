@@ -64,7 +64,7 @@ async def lovecalc(ctx, user1 : discord.Member, user2 : discord.Member):
 
 
 # # funcion de youtube
-# key ='AIzaSyCsvU0QMOYoNvppFTVWHD8kfFDuXLJHAdY'
+# key =''
 # @bot.command(name='subs')
 # async def subs(ctx, username):
 #     data = urllib.request.urlopen("https://www.googleapis.com/youtube/v3/channels?part=statistics&forUsername=" + username + "&key=" + key).read()
